@@ -1,0 +1,18 @@
+body {
+    background-color: #3b3b3b !important;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.container {
+    flex-direction: column;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container h1 {
+    color: #1DBF73;
+    font-size: 5rem;
+    margin: 2rem 0;
+    font-weight: bold;
+}
